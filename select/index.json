@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "PSG",
+  "base_artist": "Al James",
+  "createdAt": "2026-03-22T14:12:01.565998Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "PSG",
+      "artist": "Al James",
+      "has_synced": true,
+      "path": "select/01_PSG_Al_James.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Psg",
+      "artist": "AJAY feat. BURUKLYN BOYZ",
+      "has_synced": false,
+      "path": "select/02_Psg_AJAY_feat._BURUKLYN_BOYZ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Matuidi Charo (PSG)",
+      "artist": "Niska feat. Trafiquinte, Brigi, Madrane & Rako",
+      "has_synced": true,
+      "path": "select/03_Matuidi_Charo_(PSG)_Niska_feat._Trafiquinte,_Brigi,_Madrane_&_Rako.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Matuidi charo (PSG) [feat. Rako, Brigi, Trafiquinte & Madrane]",
+      "artist": "Niska",
+      "has_synced": true,
+      "path": "select/04_Matuidi_charo_(PSG)_[feat._Rako,_Brigi,_Trafiquinte_&_Madrane]_Niska.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "PSG",
+      "artist": "Les Wriggles",
+      "has_synced": true,
+      "path": "select/05_PSG_Les_Wriggles.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Matuidi Charo (PSG)",
+      "artist": "Niska",
+      "has_synced": true,
+      "path": "select/06_Matuidi_Charo_(PSG)_Niska.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "PSG (feat. 213old & Tes0r0h)",
+      "artist": "Fazzini feat. 213old & Tes0r0h",
+      "has_synced": false,
+      "path": "select/07_PSG_(feat._213old_&_Tes0r0h)_Fazzini_feat._213old_&_Tes0r0h.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "PSG (feat. 213old & Tes0r0h)",
+      "artist": "Fazzini/213old/Tes0r0h",
+      "has_synced": false,
+      "path": "select/08_PSG_(feat._213old_&_Tes0r0h)_Fazzini_213old_Tes0r0h.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "PSG",
+      "artist": "Lefar",
+      "has_synced": true,
+      "path": "select/09_PSG_Lefar.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "PSG",
+      "artist": "Al James",
+      "has_synced": true,
+      "path": "select/10_PSG_Al_James.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Matudi Charo (PSG)",
+      "artist": "Niska",
+      "has_synced": true,
+      "path": "select/11_Matudi_Charo_(PSG)_Niska.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "LEFAR - PSG (Just A Lil Bit RMX) (Audio)",
+      "artist": "Lefar",
+      "has_synced": true,
+      "path": "select/12_LEFAR_-_PSG_(Just_A_Lil_Bit_RMX)_(Audio)_Lefar.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "El Traje del PSG",
+      "artist": "Joaquín Da Rosa",
+      "has_synced": false,
+      "path": "select/13_El_Traje_del_PSG_Joaquín_Da_Rosa.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Matuidi Charo (PSG)",
+      "artist": "Niska, Rako, Brigi, Trafiquinte, Madrane",
+      "has_synced": true,
+      "path": "select/14_Matuidi_Charo_(PSG)_Niska,_Rako,_Brigi,_Trafiquinte,_Madrane.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "PSG",
+      "artist": "Sentino",
+      "has_synced": true,
+      "path": "select/15_PSG_Sentino.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Matuidi Charo (PSG) (feat. Rako, Brigi, Trafiquinte",
+      "artist": "Niska",
+      "has_synced": true,
+      "path": "select/16_Matuidi_Charo_(PSG)_(feat._Rako,_Brigi,_Trafiquinte_Niska.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "El Traje del PSG",
+      "artist": "Joaquín Da Rosa",
+      "has_synced": false,
+      "path": "select/17_El_Traje_del_PSG_Joaquín_Da_Rosa.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "L'Hymne Du Psg (Hymne Paris Saint-Germain)",
+      "artist": "S.S.Band",
+      "has_synced": true,
+      "path": "select/18_L'Hymne_Du_Psg_(Hymne_Paris_Saint-Germain)_S.S.Band.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Matuidi Charo (PSG) (feat. Rako, Brigi, Trafiquinte & Madrane)",
+      "artist": "Niska",
+      "has_synced": true,
+      "path": "select/19_Matuidi_Charo_(PSG)_(feat._Rako,_Brigi,_Trafiquinte_&_Madrane)_Niska.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PSG",
+      "artist": "Al James",
+      "has_synced": false,
+      "path": "select/pl_01_PSG_Al_James.txt"
+    }
+  ]
+}
